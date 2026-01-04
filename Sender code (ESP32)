@@ -1,4 +1,4 @@
- * ESP32 - Flex Sensor Reader & WiFi Sender
+/* ESP32 - Flex Sensor Reader & WiFi Sender
  * 
  * This code reads 4 flex sensors and sends data wirelessly to ESP8266
  * 
